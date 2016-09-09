@@ -161,7 +161,7 @@ lang="<?php echo $conf['lang'] ?>" dir="<?php echo $lang['direction']?>">
 					</div>
 				</div>
 				<div class="right alt" style="color:#777777">
-					The template is another piece of <a href="http://www.mohdshakir.net">Mohd Shakir Zakaria</a> for <a href="http://docs.oseems.com">osDocs</a>
+					The template is another piece of <a href="http://www.mohdshakir.net" rel="nofollow">Mohd Shakir Zakaria</a> for <a href="https://docs.oseems.com">osDocs</a>
 				</div>
 			</div>
 		</div>
